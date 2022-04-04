@@ -91,7 +91,7 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 
 ***Time on VBA_Challenge_2018.PNG***
 
-![name-of-you-image] (https://github.com/DataJew/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
+![name-of-you-image](https://github.com/DataJew/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 ## Summary:
 
