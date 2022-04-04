@@ -79,18 +79,6 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 > Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided (as shown in the images below, named **Dataset Examples Provided**). In adition, in our resources folder and below you can see the final Stock Analysis Results named, **Final VBA Analysis 2017 and 2018** save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png. Then, save the changes to your workbook..
 
 
-> Below our Final VBA Analysis PNGs,
-
-
-***Final VBA Analysis 2017***
-
-
-
-
-***Final VBA Analysis 2018***
-
-
-
 
 **8. The pop-up messages showing the elapsed run time for the script are saved as `VBA_Challenge_2017.png` and `VBA_Challenge_2018.png`**
 
